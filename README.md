@@ -24,7 +24,7 @@ It demonstrates end-to-end data preprocessing, feature engineering, model buildi
 ---
 
 ## 📈 Results
-- Achieved *85% accuracy** on the test dataset.  
+- Achieved *85% accuracy* on the test dataset.  
 - Important survival indicators:
   - Gender (females had higher survival probability)
   - Passenger Class (higher classes had better survival rates)
